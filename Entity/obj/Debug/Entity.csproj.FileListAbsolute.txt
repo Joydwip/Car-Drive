@@ -1,0 +1,10 @@
+F:\1001001\21\CSE 2114\Labwork\CarDraw\Entity\bin\Debug\Entity.dll
+F:\1001001\21\CSE 2114\Labwork\CarDraw\Entity\bin\Debug\Entity.pdb
+F:\1001001\21\CSE 2114\Labwork\CarDraw\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+F:\1001001\21\CSE 2114\Labwork\CarDraw\Entity\obj\Debug\Entity.dll
+F:\1001001\21\CSE 2114\Labwork\CarDraw\Entity\obj\Debug\Entity.pdb
+F:\1001001\21\CSE 2114\GitHub\Car-Drive\Entity\bin\Debug\Entity.dll
+F:\1001001\21\CSE 2114\GitHub\Car-Drive\Entity\bin\Debug\Entity.pdb
+F:\1001001\21\CSE 2114\GitHub\Car-Drive\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+F:\1001001\21\CSE 2114\GitHub\Car-Drive\Entity\obj\Debug\Entity.dll
+F:\1001001\21\CSE 2114\GitHub\Car-Drive\Entity\obj\Debug\Entity.pdb
